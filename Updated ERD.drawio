@@ -607,6 +607,12 @@
         <mxCell id="y1wjemAxfYEhZd9hq1h9-31" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-500" y="716" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AtYs9W3p1lsf2IkHM0yM-1" value="&lt;i&gt;teach&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AtYs9W3p1lsf2IkHM0yM-2" value="&lt;i&gt;has&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-455" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
